@@ -1,6 +1,6 @@
 
 Olá!! Eu sou o Edigar Moraes👋
-Estudante de Análise e Desenvolvimento de Sistemas 
+Estudante de Análise e Desenvolvimento de Sistemas / 
 Estou disponível para colaborar com projetos
 Contate-me em: edigarmoraes@hotmail.com
 
