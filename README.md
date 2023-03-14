@@ -34,3 +34,4 @@ Atualmente estou cursando faculdade de Análise e Desenvolvimento de Sistemas, D
   <a href="https://instagram.com/edigar_c_moraes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:edigar.ti.moraes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
+![snake gif](https://github.com/EdigarMoraes/EdigarMoraes/blob/output/github-contribution-grid-snake.svg)
