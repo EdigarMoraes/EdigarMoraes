@@ -20,12 +20,9 @@ Atualmente estou cursando faculdade de Análise e Desenvolvimento de Sistemas, D
 
 👨‍💻 Estudando Atualmente   | 💻 Ferramentas que Utilizo
 --------- | ------
-☑️ HTML 5  | ☑️ VisualStudio Code
-☑️ CSS 3  | ☑️ VisualStudio 2019
-☑️ Bootstrap 5  | 
-☑️ JavaScript  | 
-☑️ Python  | 
-☑️ Node.js  | 
+☑️ HTML   | ☑️ VisualStudio Code
+☑️ CSS 3  | ☑️ VisualStudio 2024
+ 
 
 ![webbbb](https://user-images.githubusercontent.com/113651285/224567923-18b8fec7-081a-442b-af56-80589f0f43e9.gif)
   <div> 
