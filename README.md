@@ -4,24 +4,15 @@
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=EdigarMoraes&show_icons=true&theme=dracula&count_private=true)
 
 
-## Tecnologias que eu uso no meu dia
-
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-   
-</div><br/>
-
-Atualmente estou cursando faculdade de Análise e Desenvolvimento de Sistemas, Desenvolvimento de Sistemas Web, pelo IFES Cachoeiro de Itapemirim e participando do programa Oracle Next Education, oferecido pela Oracle em parceria com a Alura, sempre buscando conhecimento para agregar ainda mais às minhas habilidades atuais.
+Formado em  Análise e Desenvolvimento de Sistemas ( Estácio) , Desenvolvimento de Sistemas Web, pelo IFES Cachoeiro de Itapemirim e participando do programa Oracle Next Education, oferecido pela Oracle em parceria com a Alura, sempre buscando conhecimento para agregar ainda mais às minhas habilidades atuais.
 
 <div align="center">
 
 👨‍💻 Estudando Atualmente   | 💻 Ferramentas que Utilizo
 --------- | ------
-☑️ HTML   | ☑️ VisualStudio Code
-☑️ CSS 3  | ☑️ VisualStudio 2024
- 
+☑️ C#      | ☑️ VisualStudio Code
+☑️ KOTLIN  | ☑️ VisualStudio 2024
+            | ☑️ Android Studio
 
 ![webbbb](https://user-images.githubusercontent.com/113651285/224567923-18b8fec7-081a-442b-af56-80589f0f43e9.gif)
   <div> 
